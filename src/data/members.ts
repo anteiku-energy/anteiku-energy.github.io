@@ -33,7 +33,7 @@ export const members: Member[] = [
   },
   {
     nick: "nayara / nay",
-    bio: "Needa slow down its not a rece, can this feeling be erased?",
+    bio: "Needa slow down its not a race, can this feeling be erased?",
   },
   {
     nick: "rovier",
